@@ -1,0 +1,16 @@
+.CheckoutSummary {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+.Success {
+    color: #95e02c;
+}
+.Danger {
+    color: #ec281a;
+}
+@media (min-width: 600px) {
+    .CheckoutSummary{
+        width: 500px;
+    }
+}
